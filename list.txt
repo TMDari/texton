@@ -1,5 +1,5 @@
 files to download
 ==================
 test
-tic tac toe
+tictactoe
 luck
