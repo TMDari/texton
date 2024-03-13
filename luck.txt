@@ -1,0 +1,4 @@
+A small collection of luck based games.
+- coinflip
+- etc...
+
