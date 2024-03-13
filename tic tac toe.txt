@@ -1,3 +1,4 @@
 a game of tic tac toe!
+made by... someone
 
 play by inputing spaced apart numbers 
