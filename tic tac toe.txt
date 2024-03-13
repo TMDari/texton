@@ -1,4 +1,4 @@
 a game of tic tac toe!
-made by... someone
+made by Jaween Ediriweera
 
 play by inputing spaced apart numbers 
