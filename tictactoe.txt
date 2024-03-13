@@ -1,1 +1,10 @@
-A simple tic tac toe game by Jaween Ediriweera
+Tic Tac Toe
+============
+A simple tic tac toe game!
+
+Instructions:
+to play, type the grid numbers
+spaced apart like "1 2".
+
+
+by Jaween Ediriweera
