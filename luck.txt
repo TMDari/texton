@@ -1,4 +1,9 @@
+Luck
+============
 A small collection of luck based games.
 - coinflip
 - etc...
+
+
+by TMDari
 
