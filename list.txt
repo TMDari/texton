@@ -1,5 +1,5 @@
 Apps
 ============
-test - by TMDari
-tictactoe - by Jaween Ediriweera
-luck - by TMDari
+test - tool - by TMDari
+tictactoe - game - by Jaween E...
+luck - game - by TMDari
