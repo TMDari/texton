@@ -3,11 +3,11 @@
 tictactoe - game - by Jaween E...
 luck - game - by TMDari
 dungeon - game - by TMDari
+news - media - by TMDari
 
 Coming soon
 ============
 chatty - game - by TMDari
-textonnews - media - by TMDari
 codeon - tool - by TMDari
 animon - media - by TMDari
 clicker - game - by TMDari
