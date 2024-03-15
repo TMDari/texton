@@ -1,12 +1,13 @@
-☆ Apps ☆
+Appstore ◇
 ============
 tictactoe - game - by Jaween E...
 luck - game - by TMDari
 dungeon - game - by TMDari
+
+[TEXTON ONLY]
 news - media - by TMDari
 
-Coming soon
-============
+[Coming soon]
 chatty - game - by TMDari
 codeon - tool - by TMDari
 animon - media - by TMDari
