@@ -1,9 +1,0 @@
-Test
-============
-this file prints "hi"!
-
-it is intended to test if 
-everything works fine.
-
-to download, press y.
-to leave,    press n.
