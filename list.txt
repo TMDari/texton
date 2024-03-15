@@ -2,10 +2,10 @@
 ============
 tictactoe - game - by Jaween E...
 luck - game - by TMDari
+dungeon - game - by TMDari
 
 Coming soon
 ============
-dungeon - game - by TMDari
 chatty - game - by TMDari
 textonnews - media - by TMDari
 codeon - tool - by TMDari
