@@ -1,3 +1,11 @@
 TEXTONNEWS
 ============
+16.3.2024
+____________
+TEXTON 0.5.1
+
+a few bug fixes have been
+made!
+____________
+16.3.2024
 Texton just got a news app!
