@@ -1,11 +1,12 @@
+import os, base as b
 link = "https://raw.githubusercontent.com/TMDari/texton/textonnews/"
 file = "news"
 a = ""
-clear()
+b.clear()
 pathorig = os.getcwd()
 os.chdir(os.getcwd()+"/texton/Apps/")
-a = show(link,file)
+a = b.show(link,file)
 if a is True:
-    clean(file)
+    b.clean(file)
 a = input("\npress enter to leave: ")
 os.chdir(pathorig)
