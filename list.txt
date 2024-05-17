@@ -2,14 +2,12 @@ Appstore ◇
 ============
 tictactoe - game - by Jaween E...
 luck - game - by TMDari
-dungeon - game - by TMDari
 
 [TEXTON ONLY]
 news - media - by TMDari
+dungeon - game - by TMDari
 
 [Coming soon]
-chatty - game - by TMDari
-codeon - tool - by TMDari
-animon - media - by TMDari
-clicker - game - by TMDari
+0click - game - by TMDari
+miner - game - by TMDari
 
