@@ -1,5 +1,5 @@
 import random
-import math
+import math, time
 clear()
 print ("*|TEXT DUNGEON|*")
 print ("1. Start")
