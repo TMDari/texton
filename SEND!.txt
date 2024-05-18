@@ -1,0 +1,10 @@
+SEND! - by TMDari
+=================
+a game about reacting
+fast!
+you have to type fast
+or time runs out.
+
+modes
+- alphabet
+- zones
