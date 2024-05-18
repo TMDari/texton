@@ -2,7 +2,7 @@ Luck
 ============
 A small collection of luck based games.
 - coinflip
-- etc...
+- dice
 
 
 by TMDari
