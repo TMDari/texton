@@ -1,6 +1,6 @@
-import random
+import random, base as b
 import math, time
-clear()
+b.clear()
 print ("*|TEXT DUNGEON|*")
 print ("1. Start")
 print ("2. give up :P")
@@ -24,7 +24,7 @@ if menu==1:
   trap=1
   while room<15:
     time.sleep(0.5)
-    clear()
+    b.clear()
     room = random.randrange(0,10)
     if room==2:
         print("You found a very unique dungeon room.")
@@ -60,7 +60,7 @@ if menu==1:
       print("1. go through the first.")
       print("2. go through the second.")
       way = int(input("Type the number to select..."))
-      clear()
+      b.clear()
       print("you go through the selected door")
       time.sleep(2)
     elif room==5:
@@ -69,7 +69,7 @@ if menu==1:
       print("2. go through the second.")
       print("3. go through the third.")
       way = int(input("Type the number to select..."))
-      clear()
+      b.clear()
       print("you go through the selected door")
       time.sleep(2)
     elif room<6:
