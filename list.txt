@@ -1,13 +1,15 @@
 Appstore ◇
 ============
-tictactoe - game - by Jaween E...
+
 luck - game - by TMDari
 
-[TEXTON ONLY]
+[TEXTON V0.5.2 AND UP ONLY]
 news - media - by TMDari
 dungeon - game - by TMDari
+SEND! - game - by TMDari
+tictactoe - game - by Jaween E...
 
 [Coming soon]
-0click - game - by TMDari
-miner - game - by TMDari
+Countr - game - by TMDari
+
 
