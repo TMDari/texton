@@ -1,11 +1,66 @@
 TEXTONNEWS
 ============
-16.3.2024
+
 ____________
-TEXTON 0.5.1
+16.3.2024
+Texton just got a news app!
+____________
+16.3.2024 TEXTON 0.5.1
 
 a few bug fixes have been
 made!
 ____________
-16.3.2024
-Texton just got a news app!
+18.5.2024 TEXTON 0.5.2
+
+what's new?
+
+- new app launching method
+due to issues with the previous
+method of running files within
+TEXTON, I changed it.
+this means most old apps are not
+compatible with the new version,
+but alot more is possible!
+
+- new module requirements
+you will now need to get
+inputimeout
+to run texton and the 
+apps it offers flawlessly.
+why?
+because this allows 
+for more unique games!
+
+- SEND!
+to celebrate and demonstrate 
+the use of this module you 
+need now, I made a game
+to show an example of use!
+
+Available in the appstore now!
+
+- other
+There have been ground 
+breaking changes in the core 
+functionality of texton!
+
+You will barely notice 
+a difference if you are the
+typical all day user, but 
+developers will be very happy 
+about this.
+
+But don't worry, even the 
+regular user will venefit
+from this,as more and better 
+apps will come around!
+
+- the future
+
+features I plan to add:
+
+- sound capabillity 
+(it has been hard)
+- notification bar
+- image viewer
+- alphabetical file sorting
