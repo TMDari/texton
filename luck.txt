@@ -1,8 +1,9 @@
-Luck
+Luck V2
 ============
 A small collection of luck based games.
 - coinflip
 - dice
+- number guessing
 
 
 by TMDari
