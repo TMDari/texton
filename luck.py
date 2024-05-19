@@ -6,7 +6,7 @@ loop = 1
 T = 1 
 while loop==1:
 	os.system('cls' if os.name == 'nt' else 'clear')
-	print("-|Lucky Chip|-")
+	print("-|Luck|-")
 	print("")
 	print("1.Coinflip")
 	print("2.Dice")
